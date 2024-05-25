@@ -9,3 +9,5 @@ Para lograr esto, usaremos modelos como los siguientes:
 - GCN
 - GraphSAGE
 - VGAE
+
+Desarrollado por: Adriana Zuica Restrepo, David Oñate Acosta, Natalia Puello Acosta, Camilo Soto Zambrano, Diego Merlano Porto 
